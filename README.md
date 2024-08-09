@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I enjoy immersing myself in video games and various indoor activities.
 
 ## Projects
-### [My Portfolio Website](https://rushabkaraniaportfolio.netlify.app/)
+### [My Portfolio Website](https://rushabkarania.com)
 - Description: Crafting digital experiences with code and creativity.
 
 
