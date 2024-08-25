@@ -23,6 +23,9 @@
 ### [📱 Space Explorer Mobile Version](https://whimsical-fairy-d5bbb3.netlify.app/)
 **Adventure On-the-Go:** Experience the thrill of space exploration right from your mobile device. Optimized for mobile gameplay, this version brings the vastness of space to your fingertips.
 
+### [📄 SummarEase](https://github.com/Rushab-coder/SummarEase)
+**Summarize with Ease:** A powerful text summarization tool that provides concise summaries of web pages and articles. Built with advanced AI models and a sleek user interface.
+
 ## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -46,12 +49,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushab-coder&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </div>
 
-## 🌐 Let's Connect
-[![My Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=world&logoColor=white)](https://rushabkarania.com)
+## 🌐 [Check out my Portfolio](https://rushabkarania.com)
+Explore my projects and learn more about my journey in coding and AI on my portfolio website.
+
 
 ## 🎯 Fun Fact
 "Building worlds in code, one galaxy at a time."
 
 ## 📅 Daily Coding Tip
-![Daily Coding Tip](https://readme-jokes.vercel.app/api?type=horizontal&theme=radical)
-
+![Daily Coding Tip](https://readme-jokes.vercel.app/api?type=horizontal&theme=radical&length=short&tag=python)
